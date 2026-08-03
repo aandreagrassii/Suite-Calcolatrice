@@ -1,9 +1,5 @@
 # Suite Calcolatrice
 
-# 🧮 Calcolatrice Multifunzione in Python
-
-## 📌 Descrizione
-
 Questa è un'applicazione desktop sviluppata in Python utilizzando `tkinter` per l'interfaccia grafica e `sqlite3` per la gestione del database. L'applicazione offre un sistema di autenticazione per gli utenti e permette di accedere a tre strumenti principali: una calcolatrice standard, una calcolatrice scientifica e un convertitore di basi numeriche. Tutte le operazioni effettuate vengono salvate nella cronologia personale dell'utente all'interno del database locale.
 
 ## ✨ Funzionalità
